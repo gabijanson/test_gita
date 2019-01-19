@@ -15,3 +15,4 @@ konflikt z master roziązany
 nowy branch beta
 nowy branch alpha
 zmiany na alpha
+zmiany 2 na alpha - generowanie konfliktu
