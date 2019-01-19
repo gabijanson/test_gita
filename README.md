@@ -12,4 +12,5 @@ zmiany z UI github
 konflikt z master roziązany
 >>>>>>> 01a325b1ba7d0a0bd3d04fc13a9f46bc022f5653
 
-nowy branch beta 
+nowy branch beta
+nowy branch alpha
